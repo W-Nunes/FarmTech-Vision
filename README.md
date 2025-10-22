@@ -70,7 +70,6 @@ Assista ao vídeo para ver o projeto em ação e entender melhor seu funcionamen
 
 ### Pré-requisitos
 
-* Arduino IDE ou **PlatformIO** (recomendado, usado no projeto).
 * Placa **ESP32-CAM**.
 * Adaptador **FTDI** (para programar e comunicar via USB).
 
@@ -85,7 +84,7 @@ Assista ao vídeo para ver o projeto em ação e entender melhor seu funcionamen
 2.  **Abra o projeto:**
     * Abra a pasta do projeto no **VS Code** com a extensão PlatformIO.
 
-3.  **Configure o `main.ino`:**
+3.  **Configure o `main.py`:**
     * Insira as credenciais da sua rede Wi-Fi (necessário para o setup inicial da câmera, se aplicável).
 
 4.  **Compile e envie:**
