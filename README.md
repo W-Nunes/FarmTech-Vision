@@ -1,7 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "[https://www.fiap.com.br/](https://www.fiap.com.br/)"><img src="/assets/logo-fiap.png](assets/logo-fiap.png)" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
+<a href="[https://www.fiap.com.br/](https://www.fiap.com.br/)"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 # FarmTech Vision: Detecção Inteligente em Pecuária
@@ -45,7 +45,7 @@ Para uma explicação técnica detalhada de todo o processo de treinamento, aces
 
 ### Resultados do Modelo (Imagens de Teste)
 
-O desempenho do modelo nas 3 imagens de teste (que ele nunca viu durante o treino ou validação) pode ser visto abaixo:
+O desempenho do modelo nas 3 imagens de teste (que ele nunca viu during o treino ou validação) pode ser visto abaixo:
 
 | Teste 1 | Teste 2 | Teste 3 |
 | :---: |:---:|:---:|
@@ -63,19 +63,7 @@ A solução foi implementada com hardware de baixo custo e fácil acesso, demons
 
 
 
-/
-├── assets/
-│   ├── IMG_20251020_173919.jpg
-│   ├── IMG_20251020_174053.jpg
-│   ├── TESTE_1.jpg
-│   ├── TESTE_2.jpg
-│   └── TESTE_6.jpg
-├── src/
-│   └── main.ino
-|   images/
-| 
-├── platformio.ini
-└── README.md
+[POR FAVOR, INSIRA A NOVA ESTRUTURA DE PASTAS AQUI]
 
 
 ## Vídeo Explicativo
