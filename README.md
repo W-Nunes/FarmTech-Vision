@@ -49,7 +49,8 @@ O desempenho do modelo nas 3 imagens de teste (que ele nunca viu during o treino
 
 | Teste 1 | Teste 2 | Teste 3 |
 | :---: |:---:|:---:|
-| ![Teste do Modelo 1](/assets/TESTE%201.jpg) | ![Teste do Modelo 2](/assets/TESTE%202.jpg) | ![Teste do Modelo 3](/assets/TESTE%203.jpg) |
+| ![Teste do Modelo 1](/assets/TESTE%201.jpg) | ![Teste do Modelo 2](/assets/TESTE%202.jpg) 
+| ![Teste do Modelo 3](/assets/TESTE%203.jpg) |
 
 ## 📸 Hardware Utilizado
 
@@ -61,9 +62,7 @@ A solução foi implementada com hardware de baixo custo e fácil acesso, demons
 
 ## 📁 Estrutura de Pastas (Simplificada)
 
-
-
-[POR FAVOR, INSIRA A NOVA ESTRUTURA DE PASTAS AQUI]
+/ ├── assets/ # Imagens do README (testes, hardware, logo) │ ├── IMG_20251020_173919.jpg │ ├── IMG_20251020_174053.jpg │ ├── TESTE 1.jpg │ ├── TESTE 2.jpg │ ├── TESTE 6.jpg │ └── logo-fiap.png ├── images/ # Dataset de imagens originais │ ├── train/ # Imagens de treino (60 imagens) │ └── val/ # Imagens de validação (6 imagens) ├── labels/ # Dataset de anotações (formato YOLO) │ ├── train/ # Labels de treino (60 arquivos .txt) │ └── val/ # Labels de validação (6 arquivos .txt) ├── resources/ │ └── best.pt # Modelo treinado (formato PyTorch) ├── src/ │ └── main.py # Script Python para testar o modelo no PC ├── .gitignore ├── platformio.ini # Arquivo de configuração do PlatformIO (para o ESP32) └── README.md # Este arquivo
 
 
 ## Vídeo Explicativo
