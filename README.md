@@ -49,11 +49,7 @@ O desempenho do modelo nas 3 imagens de teste (que ele nunca viu during o treino
 
 | Teste 1 | Teste 2 | Teste 3 |
 | :---: |:---:|:---:|
-| ![Teste do Modelo 1](/assets/TESTE%201.jpg) |
-
-| ![Teste do Modelo 2](/assets/TESTE%202.jpg) |
-
-| ![Teste do Modelo 3](/assets/TESTE%203.jpg) |
+| ![Teste do Modelo 1](/assets/TESTE%201.jpg) | ![Teste do Modelo 2](/assets/TESTE%202.jpg) | ![Teste do Modelo 3](/assets/TESTE%206.jpg) |
 
 ## 📸 Hardware Utilizado
 
